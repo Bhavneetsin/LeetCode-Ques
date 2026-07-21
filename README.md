@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
