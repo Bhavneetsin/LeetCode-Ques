@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
