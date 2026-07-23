@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Hash Table
