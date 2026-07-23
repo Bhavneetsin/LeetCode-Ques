@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
