@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
