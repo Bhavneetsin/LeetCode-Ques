@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
