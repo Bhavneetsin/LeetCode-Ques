@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0342-power-of-four](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
