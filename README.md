@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
