@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Array
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
