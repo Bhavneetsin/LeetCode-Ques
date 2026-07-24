@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Counting Sort
