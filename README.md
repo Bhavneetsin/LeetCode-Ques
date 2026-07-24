@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Bhavneetsin/LeetCode-Ques/tree/master/0561-array-partition) |
 ## Counting Sort
